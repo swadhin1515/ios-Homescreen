@@ -23,22 +23,7 @@ Demo site is here: [iOS Home Screen](https://ios-homescreen.now.sh/)
 - Functional components with hooks
 - Written in TypeScript
 
-# Getting Started
 
-## Prerequisites
-
-You’ll need to have Node 8.10.0 or later on your local development machine (but it’s not required on the server). You can use nvm (macOS/Linux) or nvm-windows to easily switch Node versions between different projects.
-
-## Installing
-
-Clone this repo and install it's dependencies.
-
-```
-$ git clone https://github.com/erickbogarin/mobile-homescreen
-
-# open the folder
-$ cd mobile-homescreen
-$ yarn install or npm install
 ```
 
 ## Running in development mode
