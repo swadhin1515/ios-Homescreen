@@ -18,11 +18,11 @@ export default function Home() {
       <Head>
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Next.js PWA Example</title>
+        <title>ios Homescreen</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link
-          href="/favicon-16x16.png"
+          href="/download.png"
           rel="icon"
           type="image/png"
           sizes="16x16"

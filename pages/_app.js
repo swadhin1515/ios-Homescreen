@@ -11,8 +11,8 @@ export default class App extends NextApp {
     const { Component, pageProps } = this.props
     return (
       <CacheProvider value={cache}>
-        {globalStyles}
-        <Component {...pageProps} />
+        {' '}
+        {globalStyles} <Component {...pageProps} />{' '}
       </CacheProvider>
     )
   }
